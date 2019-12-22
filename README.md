@@ -1,1 +1,1 @@
-## **fancyWeather**: (https://liudmilali.github.io/fancyweather)
+## **fancyWeather**: (https://liudmilali.github.io/fancyWeather)

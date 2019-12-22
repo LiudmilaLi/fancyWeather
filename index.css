@@ -1,11 +1,11 @@
 body {
-  max-width: 1260px;
+  max-width: 1460px;
   min-width: 260px;
   margin: 0 auto;
   background-repeat: no-repeat;
   image-rendering: pixelated;
   background-attachment:fixed;
-  background-size: cover;
+  background-size: 100%;
 }
 
 .wrapper {
